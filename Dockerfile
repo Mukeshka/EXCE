@@ -1,5 +1,5 @@
 FROM debian:latest
-LABEL MAINTAINER="https://github.com/rajja8/Rxcehack"
+LABEL MAINTAINER="https://github.com/Mukeshka/Rxcehack"
 
 WORKDIR /Rxcehack/
 ADD . /Rxcehack
